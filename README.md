@@ -13,4 +13,7 @@ Unity Build settings do not detect any Visual studio, Restart PC ( Note that Uni
 
 During build, Error : cannot find SDK of previous version, Open Visual Studio Installer -> Modify, add the version needed
 
+During Build Error: could not find SDK verXXXXX ,  simply delete those files from the project tree in Visual Studios
+
 Visual Studio does not show deploy target, go to installer -> modify -> under UWP, check, USB device connectivity
+
